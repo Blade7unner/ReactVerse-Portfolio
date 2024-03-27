@@ -1,5 +1,3 @@
-// Project.js
-
 import React from 'react';
 
 const Project = ({ title, image, deployedLink, githubLink }) => {
