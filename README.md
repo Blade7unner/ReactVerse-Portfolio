@@ -5,6 +5,8 @@ My Portfolio is a showcase of my skills and projects as a full-stack web develop
 
 ## Deployed Application
 [Live Demo](https://preeminent-vacherin-4c31b2.netlify.app/#about/)
+![Portfolio Screenshot](../assets/screenshot/screenshot.jpg)
+
 
 ## Table of Contents
 
