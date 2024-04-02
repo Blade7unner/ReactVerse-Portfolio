@@ -14,6 +14,7 @@ My Portfolio is a showcase of my skills and projects as a full-stack web develop
 - [Features](#features)
 - [Project Showcase](#project-showcase)
 - [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 
 ## Features
@@ -33,4 +34,9 @@ My Portfolio is a showcase of my skills and projects as a full-stack web develop
 
 - GitHub: [Blade7unner](https://github.com/blade7unner)
 - Email: [Fbenoit2077@gmail.com](mailto:fbenoi2077@gmail.com)
+
+  ## Acknowledgements
+
+- The coding boot camp team for providing guidance and resources for developing this project.
+- The open-source community for sharing valuable knowledge and tools that have been instrumental in building this project.
   
