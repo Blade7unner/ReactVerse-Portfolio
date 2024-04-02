@@ -10,7 +10,7 @@
   {
     "title": "Weather Dashboard:",
     "imageSrc": "projects/project2.png",
-    "description": "is an application that allows travelers to check the weather outlook for multiple cities.",
+    "description": "is Server-Side API Weather Dashboard application that allows travelers to check the weather outlook for multiple cities.",
     "skills": ["HTML", "CSS", "JavaScript", "jQuery"],
     "demo": "https://blade7unner.github.io/Weather-Dashboard/",
     "source": "https://github.com/Blade7unner/Weather-Dashboard"
