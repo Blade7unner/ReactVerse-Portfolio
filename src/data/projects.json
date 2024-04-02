@@ -3,7 +3,7 @@
     "title": "Crypto Portfolio AI",
     "imageSrc": "projects/project1.png",
     "description": "is a full-stack single-page application designed to help users manage their cryptocurrency portfolios efficiently.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Express", "Node.js"],
     "demo": "https://crypto-portfolio-ai.onrender.com/",
     "source": "https://github.com/Blade7unner/Crypto-Portfolio-AI"
   },

@@ -1,14 +1,14 @@
 @import "../../vars.css";
 
 .container {
-  color: var(--color-text); /* Set text color to white */
+  color: var(--color-text);
   margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
 }
 
 .title {
-  color: var(--color-text); /* Set title color to white */
+  color: var(--color-text);
   font-size: 35px;
   font-weight: 700;
   letter-spacing: 1.75px;
@@ -37,7 +37,7 @@
 }
 
 .skillImageContainer {
-  background-color: var(--color-secondary); /* Set background color */
+  background-color: var(--color-secondary);
   border-radius: 100%;
   display: flex;
   align-items: center;

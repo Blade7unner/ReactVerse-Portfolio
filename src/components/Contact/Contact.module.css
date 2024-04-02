@@ -1,9 +1,9 @@
 @import "../../vars.css";
 
 .container {
-  color: var(--color-text); /* Set text color to white */
+  color: var(--color-text); 
   margin-top: 120px;
-  background-color: var(--color-secondary); /* Set background color */
+  background-color: var(--color-secondary); 
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -39,7 +39,7 @@
 }
 
 .link a {
-  color: var(--color-text); /* Set link color to white */
+  color: var(--color-text); 
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
