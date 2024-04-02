@@ -1,11 +1,22 @@
 :root {
   /* Colours */
-  --color-text: #fff;
-  --color-primary: #576cbc;
-  --color-secondary: #19376d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
+  --color-text: #fff; /* White text */
+  --color-primary: #000; /* Black primary color */
+  --color-secondary: #000; /* Black secondary color */
+  --color-dark: #000; /* Black dark color */
+  --color-bg: #000; /* Black background color */
 
   /* Fonts */
   --font-roboto: "Roboto";
+}
+
+body {
+  color: var(--color-text); /* Set text color to white */
+}
+
+.App {
+  background-color: var(--color-bg); /* Set background color to black */
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
