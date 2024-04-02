@@ -2,7 +2,7 @@
   {
     "title": "Crypto Portfolio AI:",
     "imageSrc": "projects/project1.png",
-    "description": "is a full-stack single-page application designed to help users manage their cryptocurrency portfolios efficiently.",
+    "description": "Gathers real-time cryptocurrency data from multiple sources. Using AI algorithms, it analyzes this data to provide users with actionable insights for optimizing their investment strategies.",
     "skills": ["React", "Express", "Node.js"],
     "demo": "https://crypto-portfolio-ai.onrender.com/",
     "source": "https://github.com/Blade7unner/Crypto-Portfolio-AI"
@@ -10,7 +10,7 @@
   {
     "title": "Weather Dashboard:",
     "imageSrc": "projects/project2.png",
-    "description": "is Server-Side API Weather Dashboard application that allows travelers to check the weather outlook for multiple cities.",
+    "description": "Utilizing Server-Side APIs, delivers instant weather updates for any location. Simplifying weather checking, it provides accurate forecasts at your fingertips.",
     "skills": ["HTML", "CSS", "JavaScript", "jQuery"],
     "demo": "https://blade7unner.github.io/Weather-Dashboard/",
     "source": "https://github.com/Blade7unner/Weather-Dashboard"
@@ -18,7 +18,7 @@
   {
     "title": "README Generator:",
     "imageSrc": "projects/project3.png",
-    "description": "is a command-line application that creates professional README files for projects.",
+    "description": "The Node.js Professional README Generator utilizes Node.js and npm along with libraries like Inquirer.js and Markdown-it to simplify README file creation.",
     "skills": ["JavaScript", "Node.js", "Inquirer.js"],
     "demo": "https://drive.google.com/file/d/1JSEawnatSKlenwoGIHJBdqOuF899DdNb/view",
     "source": "https://github.com/Blade7unner/Readmegenerator"
