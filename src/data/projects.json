@@ -1,14 +1,14 @@
 [
   {
-    "title": "Crypto Portfolio AI",
+    "title": "Crypto Portfolio AI:",
     "imageSrc": "projects/project1.png",
-    "description": "is a full-stack single-page application designed to help users manage their cryptocurrency portfolios efficiently.",
+    "description": "Is a full-stack single-page application designed to help users manage their cryptocurrency portfolios efficiently.",
     "skills": ["React", "Express", "Node.js"],
     "demo": "https://crypto-portfolio-ai.onrender.com/",
     "source": "https://github.com/Blade7unner/Crypto-Portfolio-AI"
   },
   {
-    "title": "Weather Dashboard",
+    "title": "Weather Dashboard:",
     "imageSrc": "projects/project2.png",
     "description": "This is an application that allows travelers to check the weather outlook for multiple cities.",
     "skills": ["HTML", "CSS", "JavaScript", "jQuery"],
@@ -16,9 +16,9 @@
     "source": "https://github.com/Blade7unner/Weather-Dashboard"
   },
   {
-    "title": "README Generator",
+    "title": "README Generator:",
     "imageSrc": "projects/project3.png",
-    "description": "is a command-line application that creates professional README files for projects.",
+    "description": "Is a command-line application that creates professional README files for projects.",
     "skills": ["JavaScript", "Node.js", "Inquirer.js"],
     "demo": "https://drive.google.com/file/d/1JSEawnatSKlenwoGIHJBdqOuF899DdNb/view",
     "source": "https://github.com/Blade7unner/Readmegenerator"
