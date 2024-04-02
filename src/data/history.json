@@ -1,12 +1,12 @@
 [
   {
     "role": "Full Stack Web Developer",
-    "organisation": "Self-study",
+    "organisation": "UM Bootcamp",
     "description": "This is a project made to learn the latest languages by building an app.",
     "startDate": "Sept 25, 2023",
-    "endDate": "Present",
+    "endDate": "March 27, 2024",
     "experiences": [
-      "Studied full-stack web development at UM Bootcamp",
+      "Studied full-stack web development at University of Miami Bootcamp",
       "Completed various projects"
     ],
     "imageSrc": "history/student.png"
