@@ -2,7 +2,7 @@
 
 .container {
   position: relative;
-  background-color: rgba(4, 7, 13, 0.6); 
+  background-color: #132a53(4, 7, 13, 0.6); 
   border-radius: 15px;
   padding: 73px;
   margin-top: 129px;
@@ -30,7 +30,7 @@
 }
 
 .aboutItems {
-  color: var(--color-text); /* White text color */
+  color: var(--color-text); 
   display: flex;
   flex-direction: column;
   gap: 50px;

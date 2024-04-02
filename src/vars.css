@@ -2,8 +2,8 @@
   /* Colours */
   --color-text: #fff; /* White text */
   --color-primary: #000; /* Black primary color */
-  --color-secondary: #000; /* Black secondary color */
-  --color-dark: #000; /* Black dark color */
+  --color-secondary: rgba(25, 55, 109, 0.7) ; /* Black secondary color */
+  --color-dark: #020a13; /* Black dark color */
   --color-bg: #000; /* Black background color */
 
   /* Fonts */
