@@ -5,7 +5,8 @@ My Portfolio is a showcase of my skills and projects as a full-stack web develop
 
 ## Deployed Application
 [Live Demo](https://preeminent-vacherin-4c31b2.netlify.app/#about/)
-![Portfolio Screenshot](../assets/screenshot/screenshot.jpg)
+![Screenshot](https://github.com/Blade7unner/ReactVerse-Portfolio/assets/145617666/73923aad-49dd-4996-9c15-85f69bf752e6)
+
 
 
 ## Table of Contents
