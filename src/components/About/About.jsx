@@ -18,7 +18,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer:</h3>
               <p>
-                I'm a frontend developer with hands-on experience in building responsive and optimized websites. Proficient in HTML, CSS, JavaScript, and frameworks like React.js.
+              My expertise lies in HTML, CSS, JavaScript, and frameworks such as React.js. With a deep understanding of these technologies, I am committed to delivering exceptional digital experiences.
               </p>
             </div>
           </li>
